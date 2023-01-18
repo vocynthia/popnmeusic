@@ -13,4 +13,4 @@ Bot.add_cog(music_cog(Bot))
 
 keep_alive()
 
-Bot.run('ODg3NTExMTg2Nzg1MDU0ODAw.YUFNNA.SwU1fL8BCpJ5tvMojyab41wS5QE')
+Bot.run('ODg3NTExMTg2Nzg1MDU0ODAw.G01lBS.kVD4Pck5BQXPEc3AEglR84RxvUjyFjGBfjcLrg')
